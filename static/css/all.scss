@@ -1,0 +1,21 @@
+$white: #FFFFFF;
+$lightBlue: #F2F9FD;
+$blue: #83C1E9;
+$orange: #F3CC9A;
+$green: #B1E5BB;
+$text: #000000B3;
+$grayText: #00000080;
+$gray: #0000004D;
+$lightGray: #ECEAEA;
+$shadow: rgba(0, 0, 0, .1);
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body, input, button{
+  font-family: 'Noto Sans TC', 'Roboto', sans-serif;
+}
+body{
+  display: flex;
+}
